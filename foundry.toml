@@ -1,0 +1,3 @@
+[profile.default]
+src = "src"  # Path to your Solidity source files
+out = "out"  # Path to output compiled contracts
